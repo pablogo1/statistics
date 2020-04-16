@@ -23,6 +23,9 @@ Every normal distribution can be represented as standard normal distribution:
 Consider a real-valued random variable, X. The cumulative distribution function (CDF) of X (or just a distribution function of X) evaluated at x is the probability that X will take a value less than or equal to x: F(x) = P(X <= x).
 
 Also,
+P(a <= X <= b) = P(a < X < b) = Fx(b) - Fx(a)
+
+The cumulative distribution function for a function iwth normal distribution is:
 
 
 
