@@ -1,4 +1,4 @@
-from normal_distribution import normal_cdf
+from common.normal_distribution import normal_cdf
 
 class Problem2:
     mean = 70.0
