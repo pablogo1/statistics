@@ -71,6 +71,12 @@ Similarly, `RankY = {2, 3, 4, 1, 3, 3}`
 
 Given two n-element data sets, `X` and `Y`, calculate the value of Spearman's rank correlation coefficient.
 
+```python
+10
+10 9.8 8 7.8 7.7 1.7 6 5 1.4 2 
+200 44 32 24 22 17 15 12 8 4
+```
+
 [Covariance_formula]: https://wikimedia.org/api/rest_v1/media/math/render/svg/6c66807f5054d1175f41b90485faadfb0aaf6104
 [Covariance_formula_2]: https://wikimedia.org/api/rest_v1/media/math/render/svg/b4958d7088b98a90684bb7420eb8a722f37fc1a7
 [Pearson_correlation]: https://wikimedia.org/api/rest_v1/media/math/render/svg/f76ccfa7c2ed7f5b085115086107bbe25d329cec
